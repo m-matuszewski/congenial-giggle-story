@@ -1,4 +1,7 @@
-Michael Matuszewski: I made this file :)
+Michael Matuszewski -
 
-Allison Jacobsen: Hi I am a member of your xteam and I now have access to this story to edit and write all that I want! *evil laugh*
-
+There once was a lonely object, all by itself on the heap. Its only friend
+was a reference, but it lived on the stack. The object feels like the
+reference is very controlling, but there's not much the object can do about
+that. One cycle, the reference decided to give something to our object, and
+set one of its fields.
