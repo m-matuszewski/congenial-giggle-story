@@ -5,3 +5,8 @@ was a reference, but it lived on the stack. The object feels like the
 reference is very controlling, but there's not much the object can do about
 that. One cycle, the reference decided to give something to our object, and
 set one of its fields.
+What the reference set in that field though was unique, the reference wanted
+to give something special to its object,he knew that the object craved more 
+than anything in the world was friends, so in that field it gave the object
+an array of pointers,all pointing to the reference itself!He did that because...
+  
