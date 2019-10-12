@@ -13,3 +13,7 @@ This object had no friends, and this array of pointers gave it all the attention
 it could have asked for. This object was not used to such attention, and began
 get overwhelmed by his new friends. One day, the pressure became too much and 
 the reference had to act fast.  
+Due to all of the pressure the object was feeling with so many friends
+he decided to cut off all ties. He isolated himself all alone on the heap and 
+refused to accept the attention. The object was contemplating his existence
+and was praying for the day that he would get garbage collected.
