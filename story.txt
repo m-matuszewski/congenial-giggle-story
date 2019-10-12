@@ -17,3 +17,11 @@ Due to all of the pressure the object was feeling with so many friends
 he decided to cut off all ties. He isolated himself all alone on the heap and 
 refused to accept the attention. The object was contemplating his existence
 and was praying for the day that he would get garbage collected.
+
+The reference noticed that things were quiet over on the stack and upon
+investigation, it was no longer a reference to it's friend object, but
+a null reference. This made the reference worry greatly, and it searched far
+and wide for a local reference or some long lost method call. Luckily, the
+object was found and was saved from the garbage collector! The reference
+quickly called reset() and our friend the object was back to normal.
+The end
